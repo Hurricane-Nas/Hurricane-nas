@@ -1,0 +1,5 @@
+{
+    "cpu": "choice3_2,choice3_1,choice3_1,choice3_1,choice3_2,choice3_1,choice3_1,choice3_1,choice3_2_se_hsx4,choice5_1,choice5_1,choice5_1,choice3_1_se_hsx4,choice3_1,choice3_1,choice3_1,choice5_2,mb5_1_1,choice5_1,choice3_1_se_hsx4",
+    "vpu": "choice5_2,sep3_1,choice5_1,choice3_1,choice7_2,choice7_1,choice5_1,choice7_1,choicex_2,choice5_1,choicex_1,choicex_1,choice7_1,choice5_1,choicex_1,choicex_1,mb3_2_1,mb7_1_1,choice7_1,mb7_1_1",
+    "dsp": "choicex_2,choicex_1,sep3_1,sep3_1,mb3_2_1,choice3_1,choice3_1,choice3_1,choice3_2_se_sx4,choicex_1,mb3_1_1,choicex_1,choice3_1_se_sx4,mb3_1_1,choicex_1,choicex_1,mb3_2_3,choicex_1,mb3_1_3,mb3_1_3"
+}
